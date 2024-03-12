@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: "poppins";
+}
+
+@font-face {
+  font-family: "Poppins";
+  src: url("../public/fonts/Poppins.ttf");
+}
+@font-face {
+  font-family: "Bryson";
+  src: url("../public/fonts/Bryson.otf");
+}
